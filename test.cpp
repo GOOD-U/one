@@ -1,7 +1,7 @@
-#include <iostream>
-
+//#include <iostream>
+#include <stdio.h>
 using namespace std;
 int main(){
-  printf("hello world\n");
+	printf("hello world\n");
 
 }
